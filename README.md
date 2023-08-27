@@ -20,7 +20,7 @@ The design consists of four main blocks: 1-Buad rate generator (Timer).   2-FIFO
 
 
 ![UART](https://github.com/MohamedDawod29/UART/assets/138527948/c27ac53e-d588-4012-a904-f99362145156)
--Note that the code modify the inputs and outputs of this design to make the design more readable understandable.
+-Note that the code modify the inputs and outputs of this design to make the design more readable and understandable.
 
 
 
